@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("Git Test 第三次commit");
         System.out.println("Git Test 第三次commit");
         System.out.println("Hello git4");
+        System.out.println("master test");
     }
 }
